@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-color: #2a304d;
+}
+
+.flex-row{
+    display: flex;
+}
+
+.flex-column{
+    display: flex;
+    flex-direction: column;
+}
+
+.justify-center{
+    justify-content: center;
+}
+
+.align-center{
+    align-items: center;
+}
+
+.justify-space-between{
+    justify-content: space-between;
+}
+
+.yellow{
+    color: #FFD900;
+}
+
+.blue{
+    color: #2a304d;
+
+}
+
+.bg-yellow{
+    background-color: #FFD900;
+}
+
+.bg-blue{
+    background-color: #2a304d;
+}
